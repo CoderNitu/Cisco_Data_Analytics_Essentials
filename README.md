@@ -24,7 +24,9 @@
 ![b_12](https://github.com/CoderNitu/Cisco_Data_Analytics_Essentials/assets/87817227/9979647b-b580-4650-a7d3-5800acf22faf)
 ![b_13](https://github.com/CoderNitu/Cisco_Data_Analytics_Essentials/assets/87817227/66b98b4d-1f71-4876-8d63-b51641f0ff09)
 ![b_14](https://github.com/CoderNitu/Cisco_Data_Analytics_Essentials/assets/87817227/61e72f3b-5cc9-43af-9b82-9cda324ec6af)
-
+![b_1](https://github.com/CoderNitu/Cisco_Data_Analytics_Essentials/assets/87817227/e383e0fc-1ab0-49ca-a710-93601f0a6485)
+![b_8](https://github.com/CoderNitu/Cisco_Data_Analytics_Essentials/assets/87817227/8f4f442b-2a34-48ad-8acb-68db8e481aa3)
+![b_9](https://github.com/CoderNitu/Cisco_Data_Analytics_Essentials/assets/87817227/1dff033a-ac65-4a66-a8ef-b4399c20042b)
 
 
 
