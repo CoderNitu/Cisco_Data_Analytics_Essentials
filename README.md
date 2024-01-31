@@ -60,23 +60,39 @@
 ![m_8](https://github.com/CoderNitu/Cisco_Data_Analytics_Essentials/assets/87817227/3c1e3744-a43c-4f48-b7bf-61ae7bb75589)
 # 𝗤𝘂𝗲𝘀𝘁𝗶𝗼𝗻 𝟮𝟯
 ![m_9](https://github.com/CoderNitu/Cisco_Data_Analytics_Essentials/assets/87817227/fa47c28b-6e7f-4dd4-83ba-3423cd4385e4)
-
+# 𝗤𝘂𝗲𝘀𝘁𝗶𝗼𝗻 𝟮𝟰
 ![s_1](https://github.com/CoderNitu/Cisco_Data_Analytics_Essentials/assets/87817227/95c6ea02-3e03-40a3-a1e1-1f4301717779)
+# 𝗤𝘂𝗲𝘀𝘁𝗶𝗼𝗻 𝟮𝟱
 ![s_3](https://github.com/CoderNitu/Cisco_Data_Analytics_Essentials/assets/87817227/4e7a34da-9c84-46f8-936b-88f3a3479116)
+# 𝗤𝘂𝗲𝘀𝘁𝗶𝗼𝗻 𝟮𝟲
 ![s_2](https://github.com/CoderNitu/Cisco_Data_Analytics_Essentials/assets/87817227/993e46db-835b-48f7-931c-cbdfc326281c)
+# 𝗤𝘂𝗲𝘀𝘁𝗶𝗼𝗻 𝟮𝟳
 ![s_4](https://github.com/CoderNitu/Cisco_Data_Analytics_Essentials/assets/87817227/3d1476aa-4fcb-47ed-a861-79420c651aae)
+# 𝗤𝘂𝗲𝘀𝘁𝗶𝗼𝗻 𝟮𝟴
 ![s_5](https://github.com/CoderNitu/Cisco_Data_Analytics_Essentials/assets/87817227/adab2e79-a6a9-4a5e-a0a2-2ac5f0361ecc)
+# 𝗤𝘂𝗲𝘀𝘁𝗶𝗼𝗻 𝟮𝟵
 ![s_6](https://github.com/CoderNitu/Cisco_Data_Analytics_Essentials/assets/87817227/fb5ca810-b97e-4803-8091-70e91403a271)
+# 𝗤𝘂𝗲𝘀𝘁𝗶𝗼𝗻 𝟯𝟬
 ![t_1](https://github.com/CoderNitu/Cisco_Data_Analytics_Essentials/assets/87817227/7483f805-99bc-4c34-baca-98244367b60d)
+# 𝗤𝘂𝗲𝘀𝘁𝗶𝗼𝗻 𝟯𝟭
 ![t_2](https://github.com/CoderNitu/Cisco_Data_Analytics_Essentials/assets/87817227/aaec543b-211f-45f6-8551-63a2f9d3c760)
+# 𝗤𝘂𝗲𝘀𝘁𝗶𝗼𝗻 𝟯𝟮
 ![t_3](https://github.com/CoderNitu/Cisco_Data_Analytics_Essentials/assets/87817227/1ec546a0-348f-4ab0-b554-1277169ef595)
+# 𝗤𝘂𝗲𝘀𝘁𝗶𝗼𝗻 𝟯𝟯
 ![t_4](https://github.com/CoderNitu/Cisco_Data_Analytics_Essentials/assets/87817227/24380f83-3b2b-4c5b-b0a7-c8f72d030ef1)
+# 𝗤𝘂𝗲𝘀𝘁𝗶𝗼𝗻 𝟯𝟰
 ![t_5](https://github.com/CoderNitu/Cisco_Data_Analytics_Essentials/assets/87817227/0658e999-23df-42e4-a320-7693d1866708)
+# 𝗤𝘂𝗲𝘀𝘁𝗶𝗼𝗻 𝟯𝟱 
 ![t_6](https://github.com/CoderNitu/Cisco_Data_Analytics_Essentials/assets/87817227/26d23559-6da4-4679-9e71-d62f8d6a42a6)
+# 𝗤𝘂𝗲𝘀𝘁𝗶𝗼𝗻 𝟯𝟲
 ![t_7](https://github.com/CoderNitu/Cisco_Data_Analytics_Essentials/assets/87817227/854ebfc7-c20b-42f1-9a94-818609394f72)
+# 𝗤𝘂𝗲𝘀𝘁𝗶𝗼𝗻 𝟯𝟳
 ![t_8](https://github.com/CoderNitu/Cisco_Data_Analytics_Essentials/assets/87817227/07d93009-911c-476e-98e3-77830f6df562)
+# 𝗤𝘂𝗲𝘀𝘁𝗶𝗼𝗻 𝟯𝟴
 ![t_10](https://github.com/CoderNitu/Cisco_Data_Analytics_Essentials/assets/87817227/967b7a3c-7237-478d-b044-e1fbf5b4447f)
+# 𝗤𝘂𝗲𝘀𝘁𝗶𝗼𝗻 𝟯𝟵
 ![t_9](https://github.com/CoderNitu/Cisco_Data_Analytics_Essentials/assets/87817227/2bcc7e22-b72c-4909-9c96-cca97552b5ed)
+# 𝗤𝘂𝗲𝘀𝘁𝗶𝗼𝗻 𝟰𝟬
 ![t_11](https://github.com/CoderNitu/Cisco_Data_Analytics_Essentials/assets/87817227/6126fea2-db76-4f6d-beb8-091df894f450)
 
 
